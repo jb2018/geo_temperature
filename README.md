@@ -1,7 +1,11 @@
 Temperature variations across space and time: making statistics fun with geographic information and spatial analysis.
+
 Author: Justine I. Blanford
+
 Objectives: To make statistics fun with geographic information and spatial analysis
+
 Cite: Blanford, J.I. (2025) Teaching material. Temperature variations across space and time: making statistics fun with geographic information and spatial analysis.
+
 Further information: Blanford, J.I. (2025) Temperature variations across space and time: making statistics fun with geographic information and spatial analysis. 
 
 This is a class project where students can learn about statistics and spatial analysis while also learning about the environment.
